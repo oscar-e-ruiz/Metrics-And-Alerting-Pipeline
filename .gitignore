@@ -8,3 +8,6 @@ wheels/
 
 # Virtual environments
 .venv
+
+# An example file for personal reference
+src/example.py
